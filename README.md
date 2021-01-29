@@ -79,4 +79,4 @@ Este diccionario contiene únicamente las variables presentes en la base de dato
 
 ## Dashboard
 
-En la ubicación [`App/Despligue`](App/Despliegue) se encuentra tanto el Notebook ``p_to_dasboard_twitter.ipynb`` como el modelo de dashboard ``p_to_dasboard_twitter.html`` desarrollados para este ejercicio exploratorio con información referente al conjunto de datos ``Senti_Tweet_all_variables.xlsx``.
+En la ubicación [`App/Despliegue`](App/Despliegue) se encuentra tanto el Notebook ``p_to_dasboard_twitter.ipynb`` como el modelo de dashboard ``p_to_dasboard_twitter.html`` desarrollados para este ejercicio exploratorio con información referente al conjunto de datos ``Senti_Tweet_all_variables.xlsx``.
